@@ -9,6 +9,8 @@ Mr-H/Mr-H is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
+Testing if I can get a mermaid chart to render
+
 <div class="mermaid">
 graph LR
   A --- B
