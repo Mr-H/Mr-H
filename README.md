@@ -21,7 +21,10 @@ graph LR
 ## Markdown Tests
 ~~~word
 ~~~
+normal
 *italic*
+**bold**
+~~strikethrough~~
 /*
 \*
 ```
