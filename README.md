@@ -22,7 +22,8 @@ graph LR
 ~~~word
 ~~~
 normal
-*italic*
+*italic* 
+
 **bold**
 ~~strikethrough~~
 /*
