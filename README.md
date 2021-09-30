@@ -23,5 +23,7 @@ graph LR
 ~~~
 *italic*
 /*
-```block
+\*
+```
+block
 ```
