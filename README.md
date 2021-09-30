@@ -17,3 +17,9 @@ graph LR
   B-->C[fa:fa-ban forbidden]
   B-->D(fa:fa-spinner);
 </div>
+
+## Markdown Tests
+~~~word~~~
+*italic*
+/*
+```block```
