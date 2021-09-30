@@ -19,7 +19,9 @@ graph LR
 </div>
 
 ## Markdown Tests
-~~~word~~~
+~~~word
+~~~
 *italic*
 /*
-```block```
+```block
+```
